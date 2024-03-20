@@ -1,0 +1,5 @@
+pandas 
+numpy
+seaborn
+flask
+# -e .  # link to setup.py, it is not a package
